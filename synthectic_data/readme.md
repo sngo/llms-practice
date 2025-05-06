@@ -55,3 +55,5 @@ Schemas are defined in JSON format. Here's an example:
   "additional_instructions": "Create diverse, realistic users with varied cultural backgrounds."
 }
 ```
+## Screenshot
+![Synthetic Data](https://github.com/sngo/llms-practice/blob/main/synthectic_data/SyntheticData.png)
