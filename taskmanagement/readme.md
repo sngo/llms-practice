@@ -7,3 +7,7 @@ This code implements a Gradio chat application that integrates with OpenAI model
 4. **Task Display**: in HTML table.
 5. **Support Notification**: Offers to notify support team and calls abcd_NotifyTool() if user confirms.
 6. **Cheerful Responses**: Provides rando encouraging messages when no tasks are found.
+
+## Screenshot
+![Chat1](https://github.com/sngo/llms-practice/blob/main/taskmanagement/chat1.png)
+![Chat2](https://github.com/sngo/llms-practice/blob/main/taskmanagement/chat2.png)
